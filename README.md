@@ -1,0 +1,7 @@
+An object is a representation of a physical or virtual model. Essentially, it's like creating models of living things, inanimate objects, and frameworks. Objects are a group of variables and functions that imitate certain behaviors. That is how some objects can imitate real-world objects such as cars, chairs, ovens, and clothes. 
+
+A class is the template for creating objects. We can have a car class that is the foundation for making different kinds of cars. The object is created from the car classes and fills in the variables that determine the kinds of cars they are. The object may have different characteristics, but all behave the same way a car would.
+
+With the example of the car, we can have variables for modelName, modelYear, maxFuel, and currentFuel. Next, we have the functions that calculate the fuel ratio using the variables currentFuel and maxFuel. 
+
+Objects and classes are conceptually different because classes are the template that the object has to follow. Classes are not actively being used in simulations, and we do not know what the simulation is doing. We create the object using the class and then call the functions and adjust the variables independently of the class.
